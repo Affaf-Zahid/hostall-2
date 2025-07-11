@@ -2,8 +2,8 @@
 // Secure configuration for Supabase connection
 const CONFIG = {
   supabase: {
-    url: 'https://pjnqhdhlcgrrmfzscswv.supabase.co',
-    key: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBqbnFoZGhsY2dycm1menNjc3d2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA5NTg3NDMsImV4cCI6MjA2NjUzNDc0M30.UVaJXabJDPMSHgDzUk3tOEv9sAFSjqSRNEYroypqyGs'
+    url: 'https://vbtwqufbukqwwpenrcxj.supabase.co',
+    key: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZidHdxdWZidWtxd3dwZW5yY3hqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE5NzMzMDcsImV4cCI6MjA2NzU0OTMwN30.bS0AjskCld6nEnDQpIkU72f1aiqihcwwjfavbw02VyA'
   },
   app: {
     name: 'HOSTALL',
