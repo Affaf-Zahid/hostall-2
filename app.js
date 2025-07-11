@@ -1,7 +1,7 @@
 // Supabase Configuration
 const SUPABASE_CONFIG = {
-  url: 'https://pjnqhdhlcgrrmfzscswv.supabase.co',
-  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBqbnFoZGhsY2dycm1menNjc3d2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU0MDIzNDQsImV4cCI6MjA1MDk3ODM0NH0.7-RuwfLOueTXdxPVFr3mIEOAJjAHw1C0VjQyy9DZ1D0'
+  url: 'https://vbtwqufbukqwwpenrcxj.supabase.co',
+  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZidHdxdWZidWtxd3dwZW5yY3hqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE5NzMzMDcsImV4cCI6MjA2NzU0OTMwN30.bS0AjskCld6nEnDQpIkU72f1aiqihcwwjfavbw02VyA'
 };
 
 // Initialize Supabase client
